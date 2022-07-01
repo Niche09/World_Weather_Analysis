@@ -127,3 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+http://localhost:8888/edit/World_Weather_Analysis/config.py
